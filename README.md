@@ -15,6 +15,7 @@ The machine learning model was trained and deployed using Edge Impulse, a powerf
 - **Model Training**: Lightweight neural network optimized for microcontrollers.
 - **Deployment**: Model exported as C++ library and integrated into Arduino firmware.
 
+- **Edge Impulse**: Deployment can be found [here](https://studio.edgeimpulse.com/public/614756/live/impulse/2/validation).
 ## 🧪 Simulation with Wokwi
 
 We used Wokwi to simulate and test our system without physical hardware. Wokwi provides an accurate emulation environment for the Arduino Nano 33 BLE Sense, allowing us to verify sensor readings, model inference, and alert outputs in a virtual setup.
